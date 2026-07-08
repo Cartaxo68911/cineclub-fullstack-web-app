@@ -1,0 +1,12 @@
+[
+  { "model": "core.movie", "fields": { "title": "Inception", "year": 2010, "duration_minutes": 148, "age_rating": "M/12" } },
+  { "model": "core.movie", "fields": { "title": "Interstellar", "year": 2014, "duration_minutes": 169, "age_rating": "M/12" } },
+  { "model": "core.movie", "fields": { "title": "The Dark Knight", "year": 2008, "duration_minutes": 152, "age_rating": "M/12" } },
+  { "model": "core.movie", "fields": { "title": "La La Land", "year": 2016, "duration_minutes": 128, "age_rating": "M/12" } },
+  { "model": "core.movie", "fields": { "title": "Whiplash", "year": 2014, "duration_minutes": 107, "age_rating": "M/14" } },
+  { "model": "core.movie", "fields": { "title": "Parasite", "year": 2019, "duration_minutes": 132, "age_rating": "M/14" } },
+  { "model": "core.movie", "fields": { "title": "The Grand Budapest Hotel", "year": 2014, "duration_minutes": 100, "age_rating": "M/12" } },
+  { "model": "core.movie", "fields": { "title": "Arrival", "year": 2016, "duration_minutes": 116, "age_rating": "M/12" } },
+  { "model": "core.movie", "fields": { "title": "The Social Network", "year": 2010, "duration_minutes": 120, "age_rating": "M/12" } },
+  { "model": "core.movie", "fields": { "title": "Django Unchained", "year": 2012, "duration_minutes": 165, "age_rating": "M/18" } }
+]
